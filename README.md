@@ -23,9 +23,10 @@ For this project, a publicly available Epileptogie dataset [1] is used which con
 |Segment Length                      |23.6s (4097 samples)     |
 
 
-## Techniques Analyszed
-For the details on the techniques analyzed, please refer to Section 2 of the [Report](https://github.com/Kalana304/BME1473-Project/blob/main/Docs/Kalana%20Abeywardena%20-%20BME%201473%20-%20Project%20Report%20Final.pdf).
-### 
+## Methodology
+For the details on the methodologies used to analyze EEG signal in the project, please refer to Section 2 of the [Report](https://github.com/Kalana304/BME1473-Project/blob/main/Docs/Kalana%20Abeywardena%20-%20BME%201473%20-%20Project%20Report%20Final.pdf).
+
+## Run the code
 
 ## References
 ```
