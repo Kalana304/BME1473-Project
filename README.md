@@ -24,7 +24,7 @@ For this project, a publicly available Epileptogie dataset [1] is used which con
 
 
 ## Techniques Analyszed
-For the details on the techniques analyzed, please refer to Section 2 of the [Report](docs/Kalana Abeywardena - BME 1473 - Project Report Final.pdf).
+For the details on the techniques analyzed, please refer to Section 2 of the [Report]([docs/Kalana Abeywardena - BME 1473 - Project Report Final.pdf](https://github.com/Kalana304/BME1473-Project/blob/main/Docs/Kalana%20Abeywardena%20-%20BME%201473%20-%20Project%20Report%20Final.pdf).
 ### 
 
 ## References
