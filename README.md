@@ -22,9 +22,9 @@ For this project, a publicly available Epileptogie dataset [1] is used which con
 |Type of Data                        |Intracranial EEG (iEEG)  |
 |Segment Length                      |23.6s (4097 samples)     |
 
-```
-## References
 
+## References
+```
 [1] I. Ullah, M. Hussain, E. ul H. Qazi, and H. Aboalsamh, “An automated system for epilepsy detection using EEG brain signals based on deep learning approach,” Expert Syst Appl, vol. 107, pp. 61–71, Oct. 2018.
 [2] J. L. Semmlow and B. Griffel, “BIOSIGNAL and MEDICAL IMAGE PROCESSING Third Edition.”
 [3] 
