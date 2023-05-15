@@ -28,10 +28,10 @@ For the details on the methodologies used to analyze EEG signal in the project a
 
 ## Run the code
 The codes are provided in [Scipts](https://github.com/Kalana304/BME1473-Project/tree/main/Scripts) as Jupyter Notebooks. The notebooks were designed and executed in Google Colab.
-- 01_DatasetAnalysis.ipynb : Use to visualize and analyse the Dataset used. If you are uisng a different dataset, the codes may need to change.
-- 02_Denoising.ipynb : Use to run the preprocessing pipeline of the dataset -- including detrending and sphering and denoising. 
-- 03_FeatureExtraction.ipynb : Uses to extract the features from the saved preprocessed data files from earlier step. For this FeatureExtractuion.py is used as a Util file which is based on this [tutorials](https://github.com/Eldave93/Seizure-Detection-Tutorials).
-- 04_Classification.ipynb : Performs Epilepsy detection and evaluates the performance. 
+- ***01_DatasetAnalysis.ipynb*** : Use to visualize and analyse the Dataset used. If you are uisng a different dataset, the codes may need to change.
+- ***02_Denoising.ipynb*** : Use to run the preprocessing pipeline of the dataset -- including detrending and sphering and denoising. 
+- ***03_FeatureExtraction.ipynb*** : Uses to extract the features from the saved preprocessed data files from earlier step. For this FeatureExtractuion.py is used as a Util file which is based on this [tutorials](https://github.com/Eldave93/Seizure-Detection-Tutorials).
+- ***04_Classification.ipynb*** : Performs Epilepsy detection and evaluates the performance. 
 ## References
 ```
 [1] I. Ullah, M. Hussain, E. ul H. Qazi, and H. Aboalsamh, “An automated system for epilepsy detection using EEG brain signals based on deep learning approach,” Expert Syst Appl, vol. 107, pp. 61–71, Oct. 2018.
