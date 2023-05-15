@@ -23,6 +23,10 @@ For this project, a publicly available Epileptogie dataset [1] is used which con
 |Segment Length                      |23.6s (4097 samples)     |
 
 
+## Techniques Analyszed
+For the details on the techniques analyzed, please refer to Section 2 of the ![Report](docs/Kalana Abeywardena - BME 1473 - Project Report Final.pdf).
+### 
+
 ## References
 ```
 [1] I. Ullah, M. Hussain, E. ul H. Qazi, and H. Aboalsamh, “An automated system for epilepsy detection using EEG brain signals based on deep learning approach,” Expert Syst Appl, vol. 107, pp. 61–71, Oct. 2018.
