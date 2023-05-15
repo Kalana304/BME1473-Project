@@ -22,3 +22,10 @@ Hz to 85 Hz. These continuous multichannel EEG recordings from multi-spatial loc
 23.6s long epochs after visually inspecting the presence of any artifacts [1]. For this project, I selected 
 Intracranial EEG signals that are captured within hippocampus formation.
 </p>
+
+|Sampling Frequency                  |173.63Hz                 |
+|Inter-Ictal EEG Signal Dataset (D)  |100 segments             | 
+|Ictal EEG Signal Dataset (E)        |100 segments             |
+|Recording Site                      |Hippocampus Formation    |
+|Type of Data                        |Intracranial EEG (iEEG)  |
+|Segment Length                      |23.6s (4097 samples)     |
