@@ -27,7 +27,7 @@ For this project, a publicly available Epileptogie dataset [1] is used which con
 For the details on the methodologies used to analyze EEG signal in the project and the results obtained for Epileptic Seizure Detection, please refer to Section 2 and Section 3 respectively of the [Report](https://github.com/Kalana304/BME1473-Project/blob/main/Docs/Kalana%20Abeywardena%20-%20BME%201473%20-%20Project%20Report%20Final.pdf).
 
 ## Run the code
-
+The codes are provided in the
 ## References
 ```
 [1] I. Ullah, M. Hussain, E. ul H. Qazi, and H. Aboalsamh, “An automated system for epilepsy detection using EEG brain signals based on deep learning approach,” Expert Syst Appl, vol. 107, pp. 61–71, Oct. 2018.
