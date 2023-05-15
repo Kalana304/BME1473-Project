@@ -10,6 +10,15 @@ seizures by analyzing Electroencephalography (EEG) signals recorded in-vivo from
 with the disease. 
 </p>
 
-
-
 ![Overall Project Idea](Figures/Picture1.png)
+
+## Dataset
+
+<p align='justify'>
+For this project, a publicly available Epileptogie dataset [1] is used which consists of 5 subsets, each containing 
+100 EEG segments. The data is sampled at a sampling rate of 173.61 Hz which is recorded using a 128-channel 
+amplifier system with an average common reference. The recorded signals have a spectral bandwidth of 0.5 
+Hz to 85 Hz. These continuous multichannel EEG recordings from multi-spatial locations are segmented into 
+23.6s long epochs after visually inspecting the presence of any artifacts [1]. For this project, I selected 
+Intracranial EEG signals that are captured within hippocampus formation.
+</p>
